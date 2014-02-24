@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Users&#38;Balances</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="update_button__text">Обновить</string>
+    <string name="repeat_button__text">Повторить</string>
+</resources>

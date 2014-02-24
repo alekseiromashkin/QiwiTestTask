@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="users_list_item__textColor">#222222</color>
+    <color name="users_list_item__background">#FFFFFF</color>
+    <color name="users_list_item__background_pressed">#E0F5FF</color>
+    <color name="users_list_item__background_focused">#E0F5FF</color>
+    <color name="users_list_item__background_selected">#E0F5FF</color>
+
+    <color name="balances_list_item__textColor">#222222</color>
+    <color name="balances_list_item__background">#FFFFFF</color>
+</resources>
